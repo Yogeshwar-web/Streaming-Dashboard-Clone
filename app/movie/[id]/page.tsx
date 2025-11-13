@@ -1,5 +1,5 @@
 // app/movie/[id]/page.tsx
-import { fetchMovieById } from '@/Lib/tmdb';
+import { fetchMovieById } from '@/lib/tmdb';
 import Image from 'next/image';
 import Header from '../../components/Header';
 
